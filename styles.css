@@ -1,0 +1,32 @@
+h1{
+ position: absolute;
+ top: 40%;
+ left: 48%;
+ transition: all 1s;
+}
+
+
+
+button{
+    position: absolute;
+    top: 50%;
+    left: 48%;
+    font-size: large;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    background-color: rgba(247, 247, 247, 0);
+    border-radius: 10%;
+    border-width: medium;
+    
+padding: 20px 10px;
+   transition: all 1s;
+}
+    
+button:hover{
+  
+   border-radius: 50%;
+   background-color: rgba(139, 136, 136, 0.199);
+
+}
+
